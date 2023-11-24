@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\UNISAL\PI\LOG_IOT_Service\LOG_IOT_Service\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2023-10-01T19:36:19.8093895Z;True|2023-09-25T22:16:42.0914086-03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

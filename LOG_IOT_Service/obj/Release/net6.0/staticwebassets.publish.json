@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Nt3b+ZbYxotDxTcAaUERWuhlNFDSXfelv06l/Pfiw6w=",
+  "Source": "LOG_IOT_Service",
+  "BasePath": "_content/LOG_IOT_Service",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
